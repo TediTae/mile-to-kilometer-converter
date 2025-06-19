@@ -12,3 +12,12 @@ It provides an easy-to-use interface where users can input a distance in miles a
 
 ## Installation
 Clone the repository
+
+Usage
+-Enter the distance in miles in the input box.
+-Click the "Calculate" button or press Enter.
+-The result will display in kilometers below.
+
+Technologies Used
+-Python 3
+-Tkinter for GUI
