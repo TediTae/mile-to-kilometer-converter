@@ -21,3 +21,6 @@ It provides an easy-to-use interface where users can input a distance in miles a
 ## Technologies Used
 - Python 3
 - Tkinter for GUI
+
+## License
+- This project is open source and available under the MIT License.
