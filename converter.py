@@ -6,7 +6,7 @@ def mile_to_km():
         km = round(miles * 1.60934, 2)
         kilometer_result_label.config(text=f"{km}")
     except ValueError:
-        kilometer_result_label.config(text="Invalid input")
+        kilometer_result_label.config(text="Invalid input. Please enter a number.")
 
 window = Tk()
 window.title("Miles to Kilometers Converter")
