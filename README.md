@@ -11,7 +11,7 @@ It provides an easy-to-use interface where users can input a distance in miles a
 - Supports Enter key to trigger conversion  
 
 ## Installation
-Clone the repository
+- Clone the repository
 
 ## Usage
 1. Enter the distance in miles in the input box.
